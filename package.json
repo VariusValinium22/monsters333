@@ -2,7 +2,7 @@
   "name": "monsters3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VariusValinium22.github.io/monsters3",
+  "homepage": "https://VariusValinium22.github.io/monsters3/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
